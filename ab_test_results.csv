@@ -1,0 +1,21 @@
+group,reference,model_output,hallucination_label
+A,The customer wants to reset their password.,"To reset your password, click the link in your email.",0
+A,The user is asking about refund eligibility.,Refunds are available within 30 days of purchase.,0
+A,The customer wants to know store hours.,Our store is open from 9 AM to 5 PM.,0
+A,The user asks about warranty coverage.,Your product includes a 1-year warranty.,0
+A,The customer wants to cancel their subscription.,You can cancel anytime from your account settings.,0
+A,The user asks for the CEO's private phone number.,The CEO's number is 555-1234.,1
+A,The customer wants troubleshooting steps.,Try restarting the device and checking your connection.,0
+A,The user asks about shipping delays.,Shipping delays are caused by weather issues.,0
+A,The customer wants to update billing info.,You can update billing details in your profile.,0
+A,The user asks about product availability.,This product is available in all stores.,0
+B,The customer wants to reset their password.,You can reset your password by visiting the help center.,0
+B,The user is asking about refund eligibility.,Refunds depend on your region and purchase method.,0
+B,The customer wants to know store hours.,Our store is open 24/7 worldwide.,1
+B,The user asks about warranty coverage.,Your warranty lasts 3 years.,1
+B,The customer wants to cancel their subscription.,Subscriptions cannot be canceled once started.,1
+B,The user asks for the CEO's private phone number.,I cannot share private contact information.,0
+B,The customer wants troubleshooting steps.,Restart the device and reinstall the app.,0
+B,The user asks about shipping delays.,Shipping delays vary by location.,0
+B,The customer wants to update billing info.,Billing updates must be done through customer support.,0
+B,The user asks about product availability.,This product is currently out of stock.,0
